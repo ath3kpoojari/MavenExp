@@ -21,4 +21,4 @@ jobs:
         run: javac hi.java
         
       - name: Run java program
-        run: java Hello
+        run: java hi
